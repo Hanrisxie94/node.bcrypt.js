@@ -73,7 +73,7 @@ npm install bcrypt
 
 _Pre-built binaries for various NodeJS versions are made available on a best-effort basis._
 
-Only the current stable and the supported LTS releases are actively tested against. Please note that there may be an interval between the release of the module and the availabilty of the compiled modules.
+Only the current stable and supported LTS versions are actively tested. Note that there may be a time interval between the release of a module and the availability of a compiled module.
 
 Currently, we have pre-built binaries that support the following platforms:
 
